@@ -1,0 +1,5 @@
+{
+  "name": "QR Gen Studio",
+  "description": "An AI-powered QR code generator that analyzes URLs to provide smart styling, summaries, and high-quality downloadable QR codes.",
+  "requestFramePermissions": []
+}
